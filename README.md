@@ -21,4 +21,4 @@ This project is a chatbot that utilizes the Gemini API for natural language proc
    > streamlit run ".py file path"
 
 
-linked_post:https://www.linkedin.com/posts/lav-saraswat-bb3362289_ai-chatbot-innovation-activity-7222504375003308032-sq0u?
+linked_post:https://www.linkedin.com/posts/lav-saraswat-bb3362289_an-innovative-project-that-ive-been-working-activity-7222513793610760192-Jetj?
